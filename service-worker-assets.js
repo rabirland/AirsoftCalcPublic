@@ -25,15 +25,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-EqUqNuX1YgcUhoORrxuGPlX1zE3qV0\/7RBmCKiqhWxw=",
+      "hash": "sha256-u8UAb8Ajc2t20yzqkk\/ORRphgj4kRhSDmODhqDcZwH8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-HwwB2qlz2hu2EpN+DoKSE0JtfG6ht1rlUjfxHwt3rMU=",
+      "hash": "sha256-FO1BUyGCLT3lQsFEk7Zjc68ZY9f4rgehtMJ1bhZIbt0=",
       "url": "_framework\/dotnet.native.8.0.7.wy7puwykr1.js"
     },
     {
-      "hash": "sha256-E0T6jIvU\/uJt5WfnDVazhAVlDSiF\/v+Vgw\/BWfn30yE=",
+      "hash": "sha256-PyHZF8MqpO1Eb2oDN4tUDoShnnKtjJ1qnkNZMKMQh2g=",
       "url": "_framework\/dotnet.native.wasm"
     },
     {
@@ -41,7 +41,7 @@
       "url": "_framework\/AirsoftPhysics.wasm"
     },
     {
-      "hash": "sha256-XIA81Rz3cxg+XhSXOQk\/qLb9dSycXzHDoEf0SlflFgc=",
+      "hash": "sha256-58v+uTQ8wFRSg1BLljVTys41DjsGnd42bQHsOlLpzKw=",
       "url": "_framework\/BBTrajectoryCalculator.wasm"
     },
     {
@@ -157,7 +157,7 @@
       "url": "_framework\/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-2blOeUolA+NsO\/95ITRMYv5lHdvbuDGkKAs6tK9Reyw=",
+      "hash": "sha256-czyhoPexbCDxI1CXYKAK9PluyrzJAQWW5l40ch31sXI=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -177,7 +177,7 @@
       "url": "_framework\/System.Runtime.wasm"
     },
     {
-      "hash": "sha256-4ASLPI+R+3lvUZI8lVAOpIPzNEwiqbxX910GoFqMC+A=",
+      "hash": "sha256-Hnp28K\/66ofvB637slcu8d0cUeVnynv\/EUlvlcmHZgc=",
       "url": "_framework\/System.Text.Encodings.Web.wasm"
     },
     {
@@ -305,5 +305,5 @@
       "url": "_content\/BlazorSciFi\/css\/SciFi.css"
     }
   ],
-  "version": "zOXPdFUX"
+  "version": "Fua5iI3S"
 };
