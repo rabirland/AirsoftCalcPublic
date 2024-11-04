@@ -1,0 +1,26 @@
+@import '_content/BlazorSciFi/BlazorSciFi.bundle.scp.css';
+
+/* /Pages/CylinderCalc.razor.rz.scp.css */
+.label[b-9noi2ud0qm] {
+    min-width: 150px;
+}
+
+.input[b-9noi2ud0qm] {
+    min-width: 100px;
+}
+
+.postfix[b-9noi2ud0qm] {
+    width: 80px;
+    min-width: 0;
+}
+/* /Pages/GearCalc.razor.rz.scp.css */
+table[b-n8gclywrmo], th[b-n8gclywrmo], td[b-n8gclywrmo] {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px 20px;
+}
+
+tr:nth-of-type(2n)[b-n8gclywrmo] {
+    background-color: rgba(0,0,0, 0.10);
+}
+/* /Pages/TrajectoryCalc.razor.rz.scp.css */
