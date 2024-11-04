@@ -209,7 +209,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-ij3J6vEVF\/F6NaNJW689P0movEOsYTwF3gx9jY2lBuA=",
+      "hash": "sha256-UHdnE9wI4q75bV1bmkeg0LMHKKcmSzadee8x+K65kvc=",
       "url": "index.html"
     },
     {
@@ -305,5 +305,5 @@
       "url": "_content\/BlazorSciFi\/css\/SciFi.css"
     }
   ],
-  "version": "ZTOdejMf"
+  "version": "FSrIYH8c"
 };
