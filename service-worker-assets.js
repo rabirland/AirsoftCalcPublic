@@ -25,7 +25,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-u8UAb8Ajc2t20yzqkk\/ORRphgj4kRhSDmODhqDcZwH8=",
+      "hash": "sha256-qwFcnvv5RXgT\/sUeXFhas2OUdRAbi4YzoZdYneygZGI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -33,19 +33,19 @@
       "url": "_framework\/dotnet.native.8.0.7.wy7puwykr1.js"
     },
     {
-      "hash": "sha256-PyHZF8MqpO1Eb2oDN4tUDoShnnKtjJ1qnkNZMKMQh2g=",
+      "hash": "sha256-+bF8fkVTjSGSukFxgQ8UEigJtL0BO2k4niDDUalJLAs=",
       "url": "_framework\/dotnet.native.wasm"
     },
     {
-      "hash": "sha256-W18ZA6wcxE7W6FbseaMM8arOY5ioScxkEtQET8xL45Y=",
+      "hash": "sha256-QxrUr4heeCJkz0Ci2S8OfzsQ2SzsCmCyBT+jRVF1GMw=",
       "url": "_framework\/AirsoftPhysics.wasm"
     },
     {
-      "hash": "sha256-58v+uTQ8wFRSg1BLljVTys41DjsGnd42bQHsOlLpzKw=",
+      "hash": "sha256-v4oi\/TkZy8xTuwidH6MAAd7DnT1+Hbuuyv4qgQjzcxk=",
       "url": "_framework\/BBTrajectoryCalculator.wasm"
     },
     {
-      "hash": "sha256-XV12eWUD06yPAGEBnNR99W04RQsTkvYG+yXrKbqdOZI=",
+      "hash": "sha256-LPd1lZHBJhQqRVMWqAAzPTAQ3uN33YLmhl1jmKEXAQc=",
       "url": "_framework\/BlazorSciFi.wasm"
     },
     {
@@ -117,7 +117,7 @@
       "url": "_framework\/System.Collections.Specialized.wasm"
     },
     {
-      "hash": "sha256-7qumh5T7AgCvo06m2LLiuFiU9YhYjPuZfAey58zDLps=",
+      "hash": "sha256-nuvD00MlnYT3XUC+S0gZoTq2zqq92d7Z19Uj6QOfY8Q=",
       "url": "_framework\/System.Collections.wasm"
     },
     {
@@ -209,7 +209,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-UHdnE9wI4q75bV1bmkeg0LMHKKcmSzadee8x+K65kvc=",
+      "hash": "sha256-8hkjXEAoqvrZvU\/Y7g0OcjF1XW4SnUvO2fCRGLZ5XW8=",
       "url": "index.html"
     },
     {
@@ -230,7 +230,7 @@
     },
     {
       "hash": "sha256-KGRql37trgxlHKzdtQxU4zd29\/aZPfS5B5Ozwk9tX3Q=",
-      "url": "_content\/BlazorSciFi\/css\/Components\/chart..css"
+      "url": "_content\/BlazorSciFi\/css\/Components\/chart.css"
     },
     {
       "hash": "sha256-7fzfoPFeRx+8QTlpYQfqNcrx8cDTAvPEPSC56qOy0VU=",
@@ -301,9 +301,9 @@
       "url": "_content\/BlazorSciFi\/css\/Components\/text.css"
     },
     {
-      "hash": "sha256-mDzT+os0JjpFDYvVJg+dMgc1uCL6TJvlWM6x3DtEg4s=",
+      "hash": "sha256-+GUdNIlzYNfINYedIkh3h56BOGD6ucnpMLlnA3XflIA=",
       "url": "_content\/BlazorSciFi\/css\/SciFi.css"
     }
   ],
-  "version": "FSrIYH8c"
+  "version": "7T9aMNYz"
 };
