@@ -25,7 +25,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-En3kOBQ9U00xSwRVPtorx60\/SvXnEPQ85o+P7C2T9ms=",
+      "hash": "sha256-pST5gC+TYJQqOmd2cTTXQGHmCTCrzAR65f3cSYc9Fh0=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -33,19 +33,19 @@
       "url": "_framework\/dotnet.native.8.0.7.wy7puwykr1.js"
     },
     {
-      "hash": "sha256-7aq99Jr+Ij\/4\/KvdWqtT+6Fvpx6uh4JY0uKanb1TWA4=",
+      "hash": "sha256-LbGh19Gs46eiAlPOeDfKsnClrEJCQ8bZa7n83JMQNrw=",
       "url": "_framework\/dotnet.native.wasm"
     },
     {
-      "hash": "sha256-QxrUr4heeCJkz0Ci2S8OfzsQ2SzsCmCyBT+jRVF1GMw=",
+      "hash": "sha256-VzuZxBFRPUYhhS9ZIPQ53hNKS2iM+5\/0\/AGNSLAaVUw=",
       "url": "_framework\/AirsoftPhysics.wasm"
     },
     {
-      "hash": "sha256-lsfIlQiE9Qpa0uWYEL\/DvXz0v27LMPp4kvf9CQQUOEM=",
+      "hash": "sha256-08yHSS1fS8qjtZLiUO3rCSuJOl81JqcIeXz7U0WgAq0=",
       "url": "_framework\/BBTrajectoryCalculator.wasm"
     },
     {
-      "hash": "sha256-Kqd9nrEaIkk\/cnxu2L+MG+SS5AWxHufApDD2pbx4otU=",
+      "hash": "sha256-RqoPPEZQioziQHNQT5SQ60JG3S53EmYoum5rwtlR+Ys=",
       "url": "_framework\/BlazorSciFi.wasm"
     },
     {
@@ -193,7 +193,7 @@
       "url": "_framework\/System.wasm"
     },
     {
-      "hash": "sha256-AR0RE2+\/\/bYwEj4fkDjWKHJ15SRgxs8Ua6hMZLiSQGo=",
+      "hash": "sha256-vUM2gWqGiUkoYaPXBlLpKNq6Eg3FG6qNmkvgprzhdbQ=",
       "url": "BBTrajectoryCalculator.styles.css"
     },
     {
@@ -273,11 +273,11 @@
       "url": "_content\/BlazorSciFi\/css\/Components\/nav.css"
     },
     {
-      "hash": "sha256-qSphjXQPVfdtVMUm3HnYS6XqoDz2eYjLTIjZYfsuq\/4=",
+      "hash": "sha256-GXWjEcjpiNc3hq5cwV5FeUprK9GW2ajbBsmfKdPQIz4=",
       "url": "_content\/BlazorSciFi\/css\/Components\/overlay.css"
     },
     {
-      "hash": "sha256-SujnVNQNtYuO+NeCS+STiERRUzKuFW8YAovio6Dw56A=",
+      "hash": "sha256-l9uKRQ96WxKnim1DzDA1OFBRMfClUhivZOjWP2ENkOA=",
       "url": "_content\/BlazorSciFi\/css\/Components\/panel.css"
     },
     {
@@ -301,9 +301,9 @@
       "url": "_content\/BlazorSciFi\/css\/Components\/text.css"
     },
     {
-      "hash": "sha256-hyEFtYgda69EkGw3P2fmLqKcLIjR8RgbBXmltckuL7M=",
+      "hash": "sha256-EO0xSEr4yMsZCS0KJwn\/qMeLhE2qgr6ZmP1UaJ+d3DY=",
       "url": "_content\/BlazorSciFi\/css\/SciFi.css"
     }
   ],
-  "version": "WYHe+a\/r"
+  "version": "tT\/pgVsx"
 };

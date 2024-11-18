@@ -24,3 +24,6 @@ tr:nth-of-type(2n)[b-n8gclywrmo] {
     background-color: rgba(0,0,0, 0.10);
 }
 /* /Pages/TrajectoryCalc.razor.rz.scp.css */
+.calc-card[b-fhn16tvgkp] {
+    max-width: 500px;
+}
