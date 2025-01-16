@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "UAOaaHRC",
+  "version": "zg+9kkWo",
   "assets": [
     {
       "hash": "sha256-7RKNyQHFyTgW+Bfy1eiEfZN69cxulhG5hMHXeJwONGQ=",
@@ -102,7 +102,7 @@ self.assetsManifest = {
       "url": "_framework/BBTrajectoryCalculator.wasm"
     },
     {
-      "hash": "sha256-1+nf5setjOI0flNTcsxLJqmgbLoxj9Rb47VdhfCaJDg=",
+      "hash": "sha256-VLlFerjFjxFoE7PVFyD9/11GUR7klIX0p21q9M7if3w=",
       "url": "_framework/BlazorSciFi.wasm"
     },
     {
@@ -250,7 +250,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-i3MXcwc32MF4YWlwtJ2hJdsAk6brvp2wf5QpD3KcRNY=",
+      "hash": "sha256-GCHhSoOW3xo69K9bwM84EreR7RU3JUbLooNAsu/BNy0=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -266,7 +266,7 @@ self.assetsManifest = {
       "url": "_framework/dotnet.native.js"
     },
     {
-      "hash": "sha256-rV0Jwi7onrf29a3oDerS6JwrrPl3B5f8fsH3YlCrVAk=",
+      "hash": "sha256-cDzUOvAjH76b4u+0xBXztP1uXS1wX7p1sTLM6nNI3S4=",
       "url": "_framework/dotnet.native.wasm"
     },
     {
