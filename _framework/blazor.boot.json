@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BBTrajectoryCalculator",
   "resources": {
-    "hash": "sha256-mJbgCF5toQvf58pArdZ4ZaeQDLELA9rhe2uNGPgS+jM=",
+    "hash": "sha256-hKHT4aweO/8ZKI71MtF7IfPGGykfdWB6mn7+KQrGJqI=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-Q5CPItNNTBD+ceYRwgQHKpBAstggx4TXOpwdLhnKWLc="
     },
@@ -9,7 +9,7 @@
       "dotnet.runtime.js": "sha256-nam8JTYKjhMKOTg6+FlihYP6JpWPGe3jjM9fiUFWzhY="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-YUcvLyoBBncQfd+SZk5On0lJhtUNOq6bpWcZq39v8Zw="
+      "dotnet.native.wasm": "sha256-rV0Jwi7onrf29a3oDerS6JwrrPl3B5f8fsH3YlCrVAk="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -19,7 +19,7 @@
     "coreAssembly": {},
     "assembly": {
       "AirsoftPhysics.wasm": "sha256-wEfbp00JUl7Jc3Bfbcr/XStXoYzk6DznI4eiLfbhlSE=",
-      "BBTrajectoryCalculator.wasm": "sha256-i4IJl31e+aCissWWFI3amIvBvDVlW8k8mQfG1+UwvMw=",
+      "BBTrajectoryCalculator.wasm": "sha256-EDxL+/ozzeZTTwPhKs90KcMB843cMNNjVKZcTHONAyo=",
       "BlazorSciFi.wasm": "sha256-1+nf5setjOI0flNTcsxLJqmgbLoxj9Rb47VdhfCaJDg=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-8Y58TUA7nfBFTqXaxCWilKlNEf6D181FA7Sxw5KpoUg=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-uw3yQs1qRQdgAXNBYV7l/sGcfDRX8fV4nX0pwZJGhSQ=",
@@ -48,7 +48,7 @@
       "System.Net.Http.wasm": "sha256-ix1C9SgQeAWAvsXS06elFkNgnYU7+1luqeAjKNDgovY=",
       "System.Net.Primitives.wasm": "sha256-CKKDubv0eakXAzmJ6agIVFU7pQLRmBjrFP+Px5pCXPI=",
       "System.ObjectModel.wasm": "sha256-NWBrZ9SKM09nZQG8NBRmcIUzonLXHDputC/5itosYnY=",
-      "System.Private.CoreLib.wasm": "sha256-W8ybfpcVYbOgV28MHnNYSFqSEc2moVpbb3JLGpQpky4=",
+      "System.Private.CoreLib.wasm": "sha256-9HB2v5Yquw8DbE5Fmq3ZkM5VkF8ihqwm2YZkGewMOXU=",
       "System.Private.Uri.wasm": "sha256-0OHcb/qQXo5wv0tjGabGW4BtZbBeORwDvBZZwsG07YY=",
       "System.Reactive.wasm": "sha256-eqtgT/2Rj6TFLVfxX1Z5Z6GRqmOmtNPFCYFgl011t+M=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-6w23myHuMfS7m7Vn3jTIS2Bl8BwZwKBJoxXCGXBWGBo=",
