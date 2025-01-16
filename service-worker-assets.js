@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "zg+9kkWo",
+  "version": "mMxapPkc",
   "assets": [
     {
       "hash": "sha256-7RKNyQHFyTgW+Bfy1eiEfZN69cxulhG5hMHXeJwONGQ=",
@@ -98,11 +98,11 @@ self.assetsManifest = {
       "url": "_framework/AirsoftPhysics.wasm"
     },
     {
-      "hash": "sha256-EDxL+/ozzeZTTwPhKs90KcMB843cMNNjVKZcTHONAyo=",
+      "hash": "sha256-HFznKU87Kfh+xJ2sguNXRjS0ZSdoNoHyiEgOJado404=",
       "url": "_framework/BBTrajectoryCalculator.wasm"
     },
     {
-      "hash": "sha256-VLlFerjFjxFoE7PVFyD9/11GUR7klIX0p21q9M7if3w=",
+      "hash": "sha256-mF78Ry2W4B0kGkzqI9nG81/lH12qtzd/o2NtHo0XPZo=",
       "url": "_framework/BlazorSciFi.wasm"
     },
     {
@@ -250,7 +250,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-GCHhSoOW3xo69K9bwM84EreR7RU3JUbLooNAsu/BNy0=",
+      "hash": "sha256-LHAdbTNow5HJTsS38mtRu8lt3n6Ak48PfoiDNo4+uo0=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -266,7 +266,7 @@ self.assetsManifest = {
       "url": "_framework/dotnet.native.js"
     },
     {
-      "hash": "sha256-cDzUOvAjH76b4u+0xBXztP1uXS1wX7p1sTLM6nNI3S4=",
+      "hash": "sha256-0ehRch+dCJ4yxlxsN/rufcfSFxC7LNYdEP6FoVO+mmo=",
       "url": "_framework/dotnet.native.wasm"
     },
     {
