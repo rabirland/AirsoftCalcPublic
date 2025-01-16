@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "gr/TYNcT",
+  "version": "AKfa2T5s",
   "assets": [
     {
       "hash": "sha256-7RKNyQHFyTgW+Bfy1eiEfZN69cxulhG5hMHXeJwONGQ=",
@@ -90,19 +90,19 @@ self.assetsManifest = {
       "url": "_content/BlazorSciFi/css/Components/text.css"
     },
     {
-      "hash": "sha256-HystU8QR4ieDSssbXncUGo6+AExlPEBfod+Y4wjiASY=",
+      "hash": "sha256-pF1qzwCesNhO7yqHjaarOF8rcWXVCw6YMUc5faCh3FE=",
       "url": "_content/BlazorSciFi/css/SciFi.css"
     },
     {
-      "hash": "sha256-9FVXuvfxP4Av+tRjoBrtZ5cBG2jAN+3TYQ4hN0mp8C4=",
+      "hash": "sha256-KuweEgUjp6DuHQC7H2DBpiQ1uro6+wIAFSa7mmm9Aq0=",
       "url": "_framework/AirsoftPhysics.wasm"
     },
     {
-      "hash": "sha256-w8IVRV/mXmMepHnK8BHlbIth/JzlntHO7xyklvqKapc=",
+      "hash": "sha256-nl5OM8oeZNyTnYmit+frq3NZxiBchIURy83E7qHVtx8=",
       "url": "_framework/BBTrajectoryCalculator.wasm"
     },
     {
-      "hash": "sha256-KVrYETWUnjiTg654IGI187cprVDbmD5+zlQubHDu4EI=",
+      "hash": "sha256-Zr1ayLPg6SJqXbCYtuw/uiuqhd8M/mmlGTxnLnFFAyI=",
       "url": "_framework/BlazorSciFi.wasm"
     },
     {
@@ -250,7 +250,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-sRZeHIFG8loFFeGWphuRtfcNoDsSVvcPG3s7Ho0xDcw=",
+      "hash": "sha256-F4hb0oCu5ePKahQ6eXu2u3j31bBvb1eOelpSp9xFs2U=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -266,7 +266,7 @@ self.assetsManifest = {
       "url": "_framework/dotnet.native.js"
     },
     {
-      "hash": "sha256-GIUVxsbHQp2oIUSYiP6lvUwAqAlKogojRI8aARgoqpE=",
+      "hash": "sha256-i4KyRgcCX4GPmGcP2ie7EfWK3/tTcqLI0GPwhN0zwDs=",
       "url": "_framework/dotnet.native.wasm"
     },
     {
