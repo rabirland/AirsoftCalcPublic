@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BBTrajectoryCalculator",
   "resources": {
-    "hash": "sha256-oaZt+hEvT0VtQnazZECtS/WWNdvBfNXf6EL2+yVZ1go=",
+    "hash": "sha256-wIY6/wkENWro9HSaZHEVJ6xr5PRK6YGUvkmoNNbeyAU=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-hn7JvGqrw2qi4NpTPYacty36OA4r3F07l/DNy7xJ+0g="
     },
@@ -9,13 +9,13 @@
       "dotnet.runtime.js": "sha256-nam8JTYKjhMKOTg6+FlihYP6JpWPGe3jjM9fiUFWzhY="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-i4KyRgcCX4GPmGcP2ie7EfWK3/tTcqLI0GPwhN0zwDs="
+      "dotnet.native.wasm": "sha256-eLuRseo2J86nyUzh3gOoCXY13swEMcOhvRpN8Fka+tQ="
     },
     "coreAssembly": {},
     "assembly": {
-      "AirsoftPhysics.wasm": "sha256-KuweEgUjp6DuHQC7H2DBpiQ1uro6+wIAFSa7mmm9Aq0=",
-      "BBTrajectoryCalculator.wasm": "sha256-nl5OM8oeZNyTnYmit+frq3NZxiBchIURy83E7qHVtx8=",
-      "BlazorSciFi.wasm": "sha256-Zr1ayLPg6SJqXbCYtuw/uiuqhd8M/mmlGTxnLnFFAyI=",
+      "AirsoftPhysics.wasm": "sha256-wbqjfcEl3tx2jrgz4dc2DTeWmwFKjPu3ud0PRX64ODQ=",
+      "BBTrajectoryCalculator.wasm": "sha256-Po+5iRGlnh2ct5OsWnOrA55ZmXb1As9Nh1DiqzB6svY=",
+      "BlazorSciFi.wasm": "sha256-NyAMBdiVBMY1jghW8OZG26BHiaIci5poGPtO7j+kRHI=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-8Y58TUA7nfBFTqXaxCWilKlNEf6D181FA7Sxw5KpoUg=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-uw3yQs1qRQdgAXNBYV7l/sGcfDRX8fV4nX0pwZJGhSQ=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-QQOcBDu5Rl/lLCWkwHn7BGdAtS9Eg1Qbafc/mUV3kKU=",
@@ -47,7 +47,7 @@
       "System.Private.Uri.wasm": "sha256-0OHcb/qQXo5wv0tjGabGW4BtZbBeORwDvBZZwsG07YY=",
       "System.Reactive.wasm": "sha256-eqtgT/2Rj6TFLVfxX1Z5Z6GRqmOmtNPFCYFgl011t+M=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-6w23myHuMfS7m7Vn3jTIS2Bl8BwZwKBJoxXCGXBWGBo=",
-      "System.Runtime.wasm": "sha256-1O1+ZbMghLiVTNyLg8OeRkG8lDUukWq4ExAUXy28BeQ=",
+      "System.Runtime.wasm": "sha256-RvmW/URw1k6eMl/kmuoJC/3VGVRjuQdynnnvIzdlVjg=",
       "System.Text.Encodings.Web.wasm": "sha256-5E5EERekqasqhutCYKBnmycTlHeyZwuIebkqY//jf0U=",
       "System.Text.Json.wasm": "sha256-mdhHefp6B5eTFAaHkbQZzSwMFZM97DfKQ6Olj6HcraY=",
       "System.Text.RegularExpressions.wasm": "sha256-oo9LWIWdkSZPUvKM3nkcpH8/w/mvLKOO96FWfwRjT0U=",

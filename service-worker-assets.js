@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "AKfa2T5s",
+  "version": "tD30X1pm",
   "assets": [
     {
       "hash": "sha256-7RKNyQHFyTgW+Bfy1eiEfZN69cxulhG5hMHXeJwONGQ=",
@@ -90,19 +90,19 @@ self.assetsManifest = {
       "url": "_content/BlazorSciFi/css/Components/text.css"
     },
     {
-      "hash": "sha256-pF1qzwCesNhO7yqHjaarOF8rcWXVCw6YMUc5faCh3FE=",
+      "hash": "sha256-idtOY1XOTr1F0az29txFDR+AX300g4sZv9U62InLGuA=",
       "url": "_content/BlazorSciFi/css/SciFi.css"
     },
     {
-      "hash": "sha256-KuweEgUjp6DuHQC7H2DBpiQ1uro6+wIAFSa7mmm9Aq0=",
+      "hash": "sha256-wbqjfcEl3tx2jrgz4dc2DTeWmwFKjPu3ud0PRX64ODQ=",
       "url": "_framework/AirsoftPhysics.wasm"
     },
     {
-      "hash": "sha256-nl5OM8oeZNyTnYmit+frq3NZxiBchIURy83E7qHVtx8=",
+      "hash": "sha256-Po+5iRGlnh2ct5OsWnOrA55ZmXb1As9Nh1DiqzB6svY=",
       "url": "_framework/BBTrajectoryCalculator.wasm"
     },
     {
-      "hash": "sha256-Zr1ayLPg6SJqXbCYtuw/uiuqhd8M/mmlGTxnLnFFAyI=",
+      "hash": "sha256-NyAMBdiVBMY1jghW8OZG26BHiaIci5poGPtO7j+kRHI=",
       "url": "_framework/BlazorSciFi.wasm"
     },
     {
@@ -230,7 +230,7 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "hash": "sha256-1O1+ZbMghLiVTNyLg8OeRkG8lDUukWq4ExAUXy28BeQ=",
+      "hash": "sha256-RvmW/URw1k6eMl/kmuoJC/3VGVRjuQdynnnvIzdlVjg=",
       "url": "_framework/System.Runtime.wasm"
     },
     {
@@ -250,7 +250,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-F4hb0oCu5ePKahQ6eXu2u3j31bBvb1eOelpSp9xFs2U=",
+      "hash": "sha256-H0fNxOlX7h5KEO6khz0HAXXVdfEhGo6zjTCuO2HQVjg=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -266,7 +266,7 @@ self.assetsManifest = {
       "url": "_framework/dotnet.native.js"
     },
     {
-      "hash": "sha256-i4KyRgcCX4GPmGcP2ie7EfWK3/tTcqLI0GPwhN0zwDs=",
+      "hash": "sha256-eLuRseo2J86nyUzh3gOoCXY13swEMcOhvRpN8Fka+tQ=",
       "url": "_framework/dotnet.native.wasm"
     },
     {
