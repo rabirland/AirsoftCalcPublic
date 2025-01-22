@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "gJ4n3BCX",
+  "version": "yW/007Mn",
   "assets": [
     {
       "hash": "sha256-7RKNyQHFyTgW+Bfy1eiEfZN69cxulhG5hMHXeJwONGQ=",
@@ -86,23 +86,27 @@ self.assetsManifest = {
       "url": "_content/BlazorSciFi/css/Components/tab.scss"
     },
     {
+      "hash": "sha256-K/JyJATLEuodnANzCt3pZg9e7ck9dttD8UdaGUILEBU=",
+      "url": "_content/BlazorSciFi/css/Components/table.css"
+    },
+    {
       "hash": "sha256-aBuH4y7SZfFbhj42cGZcWeNtsgYGEblwtaHGB4Sfx6g=",
       "url": "_content/BlazorSciFi/css/Components/text.css"
     },
     {
-      "hash": "sha256-idtOY1XOTr1F0az29txFDR+AX300g4sZv9U62InLGuA=",
+      "hash": "sha256-2GoeWI1e5f3VKp1uLYJggoKnIOYXInuXxaRcIIDlAWo=",
       "url": "_content/BlazorSciFi/css/SciFi.css"
     },
     {
-      "hash": "sha256-wbqjfcEl3tx2jrgz4dc2DTeWmwFKjPu3ud0PRX64ODQ=",
+      "hash": "sha256-Ah84ZYaqr2huu1iYeJdYr66dQpgPFbRMqTY+vKwZk3U=",
       "url": "_framework/AirsoftPhysics.wasm"
     },
     {
-      "hash": "sha256-Po+5iRGlnh2ct5OsWnOrA55ZmXb1As9Nh1DiqzB6svY=",
+      "hash": "sha256-faBIVH8QUOmp2y5Qeg/2yPAwBKRJMMi63qmJpo8EC1M=",
       "url": "_framework/BBTrajectoryCalculator.wasm"
     },
     {
-      "hash": "sha256-IuA+wtMqbE14DAa3Y6C0Wtm/1H4ztA2FiAN5XlBs9MA=",
+      "hash": "sha256-pPO96zULA7ihCBdGS1oq1iZpyqDwl5MgdV0JVyfZ4i4=",
       "url": "_framework/BlazorSciFi.wasm"
     },
     {
@@ -190,7 +194,7 @@ self.assetsManifest = {
       "url": "_framework/System.ComponentModel.wasm"
     },
     {
-      "hash": "sha256-ki+D+mS+zaOdTimoxo5+mm0mVaT8myPLJBR0fbzm2QU=",
+      "hash": "sha256-fMiDOMOGZNgWlMxNERERmRf++FuK0CIW80zpJefN3x0=",
       "url": "_framework/System.Console.wasm"
     },
     {
@@ -214,7 +218,7 @@ self.assetsManifest = {
       "url": "_framework/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-A/JOrbJ6Vw2Pbr3OlAY34TQfVoyoTOl8F45JABr32AQ=",
+      "hash": "sha256-6C6IMufxP6MfZfpMjgrBVJLPaPOVFsJ+vagOBqGDj3o=",
       "url": "_framework/System.Private.CoreLib.wasm"
     },
     {
@@ -250,7 +254,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-zS33LJJctimcEcyxQJGvGO2fQlsin0N5NLQaSbXrw2Q=",
+      "hash": "sha256-xwxPr1B4reNFwyn6VBDCtNeO5TllvKf8fwL9X+apXWg=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -266,7 +270,7 @@ self.assetsManifest = {
       "url": "_framework/dotnet.native.js"
     },
     {
-      "hash": "sha256-h8JsFTL4aBzP8R8cYwe+b0qtNq2tQyoKE9UEHmuTJdI=",
+      "hash": "sha256-oFXGWJxOF+UbH4tj+FPNJ8sxFHvLCH7dfojB/6z04bY=",
       "url": "_framework/dotnet.native.wasm"
     },
     {

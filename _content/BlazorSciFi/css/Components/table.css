@@ -1,0 +1,1 @@
+.table{border-radius:8px 0 8px 0;border:1px solid var(--border-color);overflow:hidden;padding:0}.table.disabled{border-color:#aeaeae}.table tr td{padding:6px 12px}.table tr td:not(:last-of-type){border-right:1px solid var(--border-color)}.table tr:not(:last-of-type) td{border-bottom:1px solid var(--border-color)}
