@@ -1,0 +1,15 @@
+@import '_content/BlazorSciFi/BlazorSciFi.9ctc11rryo.bundle.scp.css';
+
+/* /Pages/CylinderCalc.razor.rz.scp.css */
+.label[b-9noi2ud0qm] {
+    min-width: 150px;
+}
+
+.input[b-9noi2ud0qm] {
+    min-width: 100px;
+}
+
+.postfix[b-9noi2ud0qm] {
+    width: 80px;
+    min-width: 0;
+}
