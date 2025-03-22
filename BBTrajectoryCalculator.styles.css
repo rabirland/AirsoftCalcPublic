@@ -1,5 +1,15 @@
 @import '_content/BlazorSciFi/BlazorSciFi.9ctc11rryo.bundle.scp.css';
 
+/* /Components/CollapseButton.razor.rz.scp.css */
+.btn:not(.collapsed) i[b-0yuh8m9w9l] {
+    transform: rotateZ(180deg);
+    transition: transform 0.2s;
+}
+
+.btn i[b-0yuh8m9w9l] {
+    display: inline-block;
+    transition: transform 0.2s;
+}
 /* /Pages/CylinderCalc.razor.rz.scp.css */
 .label[b-9noi2ud0qm] {
     min-width: 150px;
