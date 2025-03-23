@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "ySaaH9or",
+  "version": "ajq9XYOd",
   "assets": [
     {
       "hash": "sha256-GTIbLC7UeH9VdI5m6HhZWoqzXSmcfd12+bde/m/B/lY=",
@@ -98,11 +98,11 @@ self.assetsManifest = {
       "url": "_content/BlazorSciFi/css/SciFi.css"
     },
     {
-      "hash": "sha256-R7CEkBIFMA8dBHG++RNFic08W0Z4lRlNSFIS4TALRqs=",
+      "hash": "sha256-EVPN+8A2s1JMzltxv5zO+RXaM7BUzU5Pa53GmzpSpH0=",
       "url": "_framework/AirsoftPhysics.wasm"
     },
     {
-      "hash": "sha256-Q4/mC1TEN4e717mNr8wlp+wmm5npYj6VuA5Dfy0/b80=",
+      "hash": "sha256-F4yNuj83Uekcvw2ilNd732c44vE0KFUsZOfPgGmaDtE=",
       "url": "_framework/BBTrajectoryCalculator.wasm"
     },
     {
@@ -262,7 +262,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-/1BBo/9huYNlPMkz1l11hQLtalU9SP20PjpbfcIKZ/U=",
+      "hash": "sha256-r6faor3FnKrlEyiFB7s6U2KUKxfcep2i5kg5ErARzNs=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -278,7 +278,7 @@ self.assetsManifest = {
       "url": "_framework/dotnet.native.js"
     },
     {
-      "hash": "sha256-Trb5PYCN1bY1yT3FW1sUqOKgEgRiwTyNiahLFYc92Bs=",
+      "hash": "sha256-2m4BQttEc9bIdiwN2NtFJisIttuhi/9/6N7uKK0Gm6s=",
       "url": "_framework/dotnet.native.wasm"
     },
     {
@@ -298,7 +298,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-vk3PK9y5BEVkR4hXM5WQLV4qEsMbAsXVsfsj1jhSZ/4=",
+      "hash": "sha256-1tTCHKXFwShUtcz+hFjuHpTYbxvI1gk4cXXdaT9bUm4=",
       "url": "index.html"
     },
     {
@@ -306,7 +306,7 @@ self.assetsManifest = {
       "url": "manifest.webmanifest"
     },
     {
-      "hash": "sha256-TKkh7h8MvE0DwL/+7S3eT09JcgADgKDwy994PVAKlWQ=",
+      "hash": "sha256-ZMoT7lRk6Fro3DSxDmRvYad3WscY/FUK/VtHr0qxImU=",
       "url": "version"
     }
   ]
