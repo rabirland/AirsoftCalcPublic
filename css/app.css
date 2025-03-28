@@ -136,3 +136,11 @@ input.hide-arrow::-webkit-inner-spin-button {
     background-color: var(--bs-info) !important;
     border-color: var(--bs-info) !important;
 }
+
+.table td.nopad {
+    padding: 2px 4px !important;
+}
+
+.table td.separate-right {
+    border-right: 4px solid var(--bs-table-border-color);
+}

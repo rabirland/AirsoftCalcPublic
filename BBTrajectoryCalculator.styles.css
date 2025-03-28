@@ -1,5 +1,3 @@
-@import '_content/BlazorSciFi/BlazorSciFi.9ctc11rryo.bundle.scp.css';
-
 /* /Components/CollapseButton.razor.rz.scp.css */
 .btn:not(.collapsed) i[b-0yuh8m9w9l] {
     transform: rotateZ(180deg);
@@ -9,6 +7,14 @@
 .btn i[b-0yuh8m9w9l] {
     display: inline-block;
     transition: transform 0.2s;
+}
+/* /Components/GearTable.razor.rz.scp.css */
+.result-col[b-x26bic8fjs] {
+    min-width: 90px;
+}
+/* /Components/NumberField.razor.rz.scp.css */
+input[b-rtqobyb58l] {
+    min-width: 45px;
 }
 /* /Pages/CylinderCalc.razor.rz.scp.css */
 .label[b-9noi2ud0qm] {
