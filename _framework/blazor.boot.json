@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BBTrajectoryCalculator",
   "resources": {
-    "hash": "sha256-kntpEQKhJLalT/uU2adK/QIFVksscwHSHa7tflYvhOM=",
+    "hash": "sha256-gE2B0aPtUANkhZXgd5XO16Wty3O0nkTT8rWh8y8HoWg=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-IfVqkGdff9HgEmjCDQrIBGmCtD1NFooqhr1Dz9I2WJs="
     },
@@ -9,12 +9,12 @@
       "dotnet.runtime.js": "sha256-44Vu7OSX4JP89eoc3oTYbYfC5C7USoIWuCw1W9IG6N4="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-Br7AMLOw8QeKAHviKLk4kaB2lD3zd/mchmOe2C25ELc="
+      "dotnet.native.wasm": "sha256-aHZbZRncJcRiBTZ3esw/gj8NU1Ki+aOw0Myew/UO1uI="
     },
     "coreAssembly": {},
     "assembly": {
-      "AirsoftPhysics.wasm": "sha256-siU+guflMlvaiVFY3eMA4EuT1yFd5e235XwCm5/QtDc=",
-      "BBTrajectoryCalculator.wasm": "sha256-ug6z4sgYUyrqxis3GRogJrXrWeEHs75Od/EOFBbnWzA=",
+      "AirsoftPhysics.wasm": "sha256-cqNCRZyaMW7yJwK49fBGCCY7MOXeFR3CP3L9y9L8inE=",
+      "BBTrajectoryCalculator.wasm": "sha256-sZeue/h67xVu860aI45oWnEACM1StNiBaloFgOUTdvE=",
       "BlazorSciFi.wasm": "sha256-0DVGYCVrxKEWF/YOmi8OyL/MKqkXeHq4uflkiqud3tM=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-u7RPDZcRIC1APDOS9EOwlKjKcq8n6uNVdkp3xM2nsZA=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-OBxmvdBJzzh9lCLZJXv4ZoPEOt4+Alm/V35RE4PsFRc=",
@@ -37,7 +37,7 @@
       "System.ComponentModel.Primitives.wasm": "sha256-o8KeR8SOJr4tI8ZwM9vwERHtSg3SRGtFmrywd5vGD98=",
       "System.ComponentModel.TypeConverter.wasm": "sha256-Pl7GFeOZHdZmrDXRK0yKHKaNu30qVuj6nzmDlEdasTQ=",
       "System.ComponentModel.wasm": "sha256-KJ4vSyD4uZiNAzX16JFlSagNNsiKqkpuxbZRPNjKdR8=",
-      "System.Console.wasm": "sha256-K9HUbXussUYkdtDojVK3vcyTEQZqRqIoV/SkS87DVPA=",
+      "System.Console.wasm": "sha256-xyU5SrWGvoglRebtS+Z+UmPJBjKS+vnWLff4dQ8KARg=",
       "System.Diagnostics.DiagnosticSource.wasm": "sha256-fWlORLilk90cwarIg/meA8zHRRvCY0++oGc73IMQI2k=",
       "System.Linq.wasm": "sha256-+PmbIMxlTAB32x1QQ5oUOyr2dcdMaV1EmYv7Fj/r2QE=",
       "System.Memory.wasm": "sha256-6scSkLJI23CPAsbm/Kb1/TA7o4lWtvGL1HCSxqz79dU=",
