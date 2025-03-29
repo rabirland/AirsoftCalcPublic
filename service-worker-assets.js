@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "CxH+fBpH",
+  "version": "VpRGREM0",
   "assets": [
     {
       "hash": "sha256-HaC//1CcifwXuCADVrhkQ5RP6Ov+aoWHctVuVMnASew=",
@@ -94,15 +94,15 @@ self.assetsManifest = {
       "url": "_content/BlazorSciFi/css/SciFi.css"
     },
     {
-      "hash": "sha256-46tPf1j7GHFhVwlWx31F8dc9FSz92aFXITN5dcYd5g4=",
+      "hash": "sha256-siU+guflMlvaiVFY3eMA4EuT1yFd5e235XwCm5/QtDc=",
       "url": "_framework/AirsoftPhysics.wasm"
     },
     {
-      "hash": "sha256-6EagPp9CqCcV2OvOZT9lMdH0qktP+2feDdLKpLo6ODw=",
+      "hash": "sha256-ug6z4sgYUyrqxis3GRogJrXrWeEHs75Od/EOFBbnWzA=",
       "url": "_framework/BBTrajectoryCalculator.wasm"
     },
     {
-      "hash": "sha256-LaJpLpSCet8GZcyNBpXnE7GXG0HgyOr9VptREZGCoaM=",
+      "hash": "sha256-0DVGYCVrxKEWF/YOmi8OyL/MKqkXeHq4uflkiqud3tM=",
       "url": "_framework/BlazorSciFi.wasm"
     },
     {
@@ -218,7 +218,7 @@ self.assetsManifest = {
       "url": "_framework/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-ytxwYyaiEyDZGyix4f50ikilFyDUizSJ8MvvyZxef3Q=",
+      "hash": "sha256-mxNe9dUh9C2ZBVR3RCD8/pDdeEUnCADb8vYBq8cl8tc=",
       "url": "_framework/System.Private.CoreLib.wasm"
     },
     {
@@ -234,7 +234,7 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "hash": "sha256-Y3KBWeQ5clN9d+U0dUNwbfVgus+ckCIIdGAGS3D3TD0=",
+      "hash": "sha256-/mja7ZN1L9d6vhOR5mQ1brtC2X18Nv7TodVQNWNItLg=",
       "url": "_framework/System.Runtime.wasm"
     },
     {
@@ -258,7 +258,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-FZw+bUps/B3U2U4gNfXfWUHmBC59uGP4Y0/3rBSkCNE=",
+      "hash": "sha256-08oQDi7GefI5TXxGFy2VehHjnfjy5b90+Rl6D+nE0uE=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -274,7 +274,7 @@ self.assetsManifest = {
       "url": "_framework/dotnet.native.js"
     },
     {
-      "hash": "sha256-MmlqG45SVp4IzNFsFiszRnnRCNoCfBOBWfw+xFVEZxU=",
+      "hash": "sha256-Br7AMLOw8QeKAHviKLk4kaB2lD3zd/mchmOe2C25ELc=",
       "url": "_framework/dotnet.native.wasm"
     },
     {
@@ -302,7 +302,7 @@ self.assetsManifest = {
       "url": "manifest.webmanifest"
     },
     {
-      "hash": "sha256-Y63wcd/CClrL1uSTRSJpitBNeYA1ajJN/eo+1q9FMiU=",
+      "hash": "sha256-X5FPC8iLvACY0DL2CGua1VO7wXdDpdviArg84P4Wfw0=",
       "url": "version"
     }
   ]
