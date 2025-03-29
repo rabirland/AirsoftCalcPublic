@@ -144,3 +144,24 @@ input.hide-arrow::-webkit-inner-spin-button {
 .table td.separate-right {
     border-right: 4px solid var(--bs-table-border-color);
 }
+
+@media screen and (max-height: 1200px){
+    .my-adaptive {
+        margin-top: 0.3rem !important;
+        margin-bottom: 0.3rem !important;
+    }
+}
+
+@media screen and (max-height: 1100px) {
+    .my-adaptive {
+        margin-top: 0.1rem !important;
+        margin-bottom: 0.1rem !important;
+    }
+}
+
+@media screen and (max-height: 950px) {
+    .my-adaptive {
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+    }
+}

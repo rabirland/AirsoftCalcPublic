@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "oRh6n1lG",
+  "version": "CxH+fBpH",
   "assets": [
     {
       "hash": "sha256-HaC//1CcifwXuCADVrhkQ5RP6Ov+aoWHctVuVMnASew=",
@@ -94,15 +94,15 @@ self.assetsManifest = {
       "url": "_content/BlazorSciFi/css/SciFi.css"
     },
     {
-      "hash": "sha256-w0NnGMXoCbtvBWAax/ptEhqzWT75LhRJfak8mDzoALY=",
+      "hash": "sha256-46tPf1j7GHFhVwlWx31F8dc9FSz92aFXITN5dcYd5g4=",
       "url": "_framework/AirsoftPhysics.wasm"
     },
     {
-      "hash": "sha256-yuNTaXKUZKP8FbVjua/QIB3qRraSO2I9nz6J+SD+ZSg=",
+      "hash": "sha256-6EagPp9CqCcV2OvOZT9lMdH0qktP+2feDdLKpLo6ODw=",
       "url": "_framework/BBTrajectoryCalculator.wasm"
     },
     {
-      "hash": "sha256-pzp8ofjq3vyGNJ6hLdelKYHBI8VtAIDZ19P+6gxunLQ=",
+      "hash": "sha256-LaJpLpSCet8GZcyNBpXnE7GXG0HgyOr9VptREZGCoaM=",
       "url": "_framework/BlazorSciFi.wasm"
     },
     {
@@ -258,7 +258,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-bPudr8h2hqagnsIA/LrGkPGDW1bbQj9gPme0GnUJ2iM=",
+      "hash": "sha256-FZw+bUps/B3U2U4gNfXfWUHmBC59uGP4Y0/3rBSkCNE=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -274,7 +274,7 @@ self.assetsManifest = {
       "url": "_framework/dotnet.native.js"
     },
     {
-      "hash": "sha256-EqCQlD8uGB58BTzw1MsoqOzwrnEDMPOO+JyFv7uTX3k=",
+      "hash": "sha256-MmlqG45SVp4IzNFsFiszRnnRCNoCfBOBWfw+xFVEZxU=",
       "url": "_framework/dotnet.native.wasm"
     },
     {
@@ -282,7 +282,7 @@ self.assetsManifest = {
       "url": "_framework/dotnet.runtime.js"
     },
     {
-      "hash": "sha256-/Ute91VID3gwJmY+chdPJpcxZY+TZQNYXtrbcHEk91w=",
+      "hash": "sha256-ZEgiFLnAAFHsUnnffB8q7ggnIWmfVE/VwXJNmYV1giI=",
       "url": "css/app.css"
     },
     {
@@ -294,7 +294,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-x9zHOC7AebzXH2pzgjqF4DH6KivI2U56pnE8oANtw9w=",
+      "hash": "sha256-UdTzeTeYo/wuriLA4GgQsrZr/Zybjp/l12HC8KVzEjQ=",
       "url": "index.html"
     },
     {
@@ -302,7 +302,7 @@ self.assetsManifest = {
       "url": "manifest.webmanifest"
     },
     {
-      "hash": "sha256-DEQF4l/lz6GkJkWCt5x+QHjS5s+AKIZTZw9PMUUKNNs=",
+      "hash": "sha256-Y63wcd/CClrL1uSTRSJpitBNeYA1ajJN/eo+1q9FMiU=",
       "url": "version"
     }
   ]
