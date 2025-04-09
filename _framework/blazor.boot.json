@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BBTrajectoryCalculator",
   "resources": {
-    "hash": "sha256-TSfxSP2kTXf/YlP36wS/n99ofwpxHAKKr4OfOrPN0PI=",
+    "hash": "sha256-dITq9YJbdzYTQM14WFXNMwjWIgVRqbMJ4m28m7QCuoQ=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-IfVqkGdff9HgEmjCDQrIBGmCtD1NFooqhr1Dz9I2WJs="
     },
@@ -9,13 +9,13 @@
       "dotnet.runtime.js": "sha256-44Vu7OSX4JP89eoc3oTYbYfC5C7USoIWuCw1W9IG6N4="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-TOf62gNpwzDAf3ieEwFUhzjCaHO1EvzQuJkmHTbnALc="
+      "dotnet.native.wasm": "sha256-7Fmg0vv7b315W+QfL3YrbBR9cO3KewihIkSPefqvUSI="
     },
     "coreAssembly": {},
     "assembly": {
-      "AirsoftPhysics.wasm": "sha256-cqNCRZyaMW7yJwK49fBGCCY7MOXeFR3CP3L9y9L8inE=",
-      "BBTrajectoryCalculator.wasm": "sha256-W4EYUasVD3gATc1NYdo7Ubro32JTgRTH8045+qAflnE=",
-      "BlazorSciFi.wasm": "sha256-0DVGYCVrxKEWF/YOmi8OyL/MKqkXeHq4uflkiqud3tM=",
+      "AirsoftPhysics.wasm": "sha256-8pfgly27PXNA6lDwWQwy++pHXpJHaYCTmUxrv8TudSg=",
+      "BBTrajectoryCalculator.wasm": "sha256-bDyA9cSTkoimQgTjer/hfhlOSlXGG/XulJBOssKEr7Y=",
+      "BlazorSciFi.wasm": "sha256-fuaJHAwxPYm/YhV675xXflOATCLVl4W0clcap0nh8x0=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-u7RPDZcRIC1APDOS9EOwlKjKcq8n6uNVdkp3xM2nsZA=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-OBxmvdBJzzh9lCLZJXv4ZoPEOt4+Alm/V35RE4PsFRc=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-QQOcBDu5Rl/lLCWkwHn7BGdAtS9Eg1Qbafc/mUV3kKU=",

@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "A/rznE7c",
+  "version": "z9abzDlx",
   "assets": [
     {
       "hash": "sha256-HaC//1CcifwXuCADVrhkQ5RP6Ov+aoWHctVuVMnASew=",
@@ -94,15 +94,15 @@ self.assetsManifest = {
       "url": "_content/BlazorSciFi/css/SciFi.css"
     },
     {
-      "hash": "sha256-cqNCRZyaMW7yJwK49fBGCCY7MOXeFR3CP3L9y9L8inE=",
+      "hash": "sha256-8pfgly27PXNA6lDwWQwy++pHXpJHaYCTmUxrv8TudSg=",
       "url": "_framework/AirsoftPhysics.wasm"
     },
     {
-      "hash": "sha256-W4EYUasVD3gATc1NYdo7Ubro32JTgRTH8045+qAflnE=",
+      "hash": "sha256-bDyA9cSTkoimQgTjer/hfhlOSlXGG/XulJBOssKEr7Y=",
       "url": "_framework/BBTrajectoryCalculator.wasm"
     },
     {
-      "hash": "sha256-0DVGYCVrxKEWF/YOmi8OyL/MKqkXeHq4uflkiqud3tM=",
+      "hash": "sha256-fuaJHAwxPYm/YhV675xXflOATCLVl4W0clcap0nh8x0=",
       "url": "_framework/BlazorSciFi.wasm"
     },
     {
@@ -258,7 +258,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-5vZW/r20llD6dK+VKrKuVOcUU8UQwKkD5Bop7UP+UhE=",
+      "hash": "sha256-OesnwROyagesamgo6lE6FvbijGlKQBatsJ4UEMEbLaA=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -274,7 +274,7 @@ self.assetsManifest = {
       "url": "_framework/dotnet.native.js"
     },
     {
-      "hash": "sha256-TOf62gNpwzDAf3ieEwFUhzjCaHO1EvzQuJkmHTbnALc=",
+      "hash": "sha256-7Fmg0vv7b315W+QfL3YrbBR9cO3KewihIkSPefqvUSI=",
       "url": "_framework/dotnet.native.wasm"
     },
     {
@@ -294,6 +294,10 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
+      "hash": "sha256-jRXaFKn1MBE3u0mPnPUo9UtxgafFtww2+uertH5ChtA=",
+      "url": "images/CCAsLogo.svg"
+    },
+    {
       "hash": "sha256-UdTzeTeYo/wuriLA4GgQsrZr/Zybjp/l12HC8KVzEjQ=",
       "url": "index.html"
     },
@@ -302,7 +306,7 @@ self.assetsManifest = {
       "url": "manifest.webmanifest"
     },
     {
-      "hash": "sha256-CyMeYnbIBJj8APZLYZwlWnnJp+6qaK3ix+hxkj/F45c=",
+      "hash": "sha256-yoGRzP7jCMWmA9m+zsUO7qsWCjW9xiXzVQDTfitP+cw=",
       "url": "version"
     }
   ]
