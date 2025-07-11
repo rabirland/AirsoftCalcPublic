@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "weFdE1wa",
+  "version": "zglShfzk",
   "assets": [
     {
       "hash": "sha256-HaC//1CcifwXuCADVrhkQ5RP6Ov+aoWHctVuVMnASew=",
@@ -98,12 +98,12 @@ self.assetsManifest = {
       "url": "_framework/AirsoftPhysics.8ndqw7gdcd.wasm"
     },
     {
-      "hash": "sha256-L++Xj61iqXRVvFLG2hfIu6OC7mHedMxLA5U0kqoQxXQ=",
-      "url": "_framework/BBTrajectoryCalculator.3biqgkbysc.wasm"
+      "hash": "sha256-MDUkYoamaoxteFuxCAJFvrtVuVbcbxPhPekqShf8gRs=",
+      "url": "_framework/BBTrajectoryCalculator.k3fvr7i5tv.wasm"
     },
     {
-      "hash": "sha256-v/Acytn8OnMaH4ee76/O7xEyQmQJ/kaA7UWRDI+IyvQ=",
-      "url": "_framework/BlazorSciFi.3n02lvj1n5.wasm"
+      "hash": "sha256-EkxvX+ibsCEfwSfsEEzU6VJK7sjKC808b1dXJjnd5FE=",
+      "url": "_framework/BlazorSciFi.6vn5w9ue42.wasm"
     },
     {
       "hash": "sha256-wM/XD6MOsTMfoXgpJGDiUE9mdJmk5JRlgMAS6iPhk74=",
@@ -266,7 +266,7 @@ self.assetsManifest = {
       "url": "_framework/System.wznexm8bk2.wasm"
     },
     {
-      "hash": "sha256-miPLT49ZnU/kzGGVpuF1QqICWi+3wGjpiC8HRcLtGhI=",
+      "hash": "sha256-Z8o7PqcBJ2PkRVlaMlu82yPU85ruQrRlpl5vzMz7FZg=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -278,8 +278,8 @@ self.assetsManifest = {
       "url": "_framework/dotnet.js"
     },
     {
-      "hash": "sha256-1dAGs07jwYxn97+LdD3hwnymdSvkgT2cRtIEqr/Bsik=",
-      "url": "_framework/dotnet.native.xtyi08v1f9.wasm"
+      "hash": "sha256-+pMGUBamru5vHj55BeR4HbCZkAxVeVUR/EHzKP1aRd0=",
+      "url": "_framework/dotnet.native.iakdgv0o3c.wasm"
     },
     {
       "hash": "sha256-zTtJojZK5gafp7v5tKeBF0RYnALBkSli2jcNDzRGQpQ=",
@@ -314,7 +314,7 @@ self.assetsManifest = {
       "url": "manifest.webmanifest"
     },
     {
-      "hash": "sha256-wMoNuUNH7gAw16oN79BUJwBDZuFl9wf49XyqKKQmNNU=",
+      "hash": "sha256-2T9lmJEnMnhVI9yahV2Ph71oDHR6YiSEuo8mNCVRrhQ=",
       "url": "version"
     }
   ]
