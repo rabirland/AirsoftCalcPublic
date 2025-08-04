@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BBTrajectoryCalculator",
   "resources": {
-    "hash": "sha256-CAZE1O3jzb0IwXCRFAHGZ3/1oyE02dXUgi/VIlPICoY=",
+    "hash": "sha256-rsrmaQyRiBR68YGNLcmQvMmN7yLKT+nx1cp3f8vEGVU=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.0oemotf9iu.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.gqai2z8to9.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -29,7 +29,7 @@
       "System.Console.2sbtg110wg.wasm": "System.Console.wasm",
       "System.Diagnostics.DiagnosticSource.peje13o6fr.wasm": "System.Diagnostics.DiagnosticSource.wasm",
       "System.IO.Pipelines.oi2s35fcuu.wasm": "System.IO.Pipelines.wasm",
-      "System.Linq.y8zvycung0.wasm": "System.Linq.wasm",
+      "System.Linq.6soujis859.wasm": "System.Linq.wasm",
       "System.Memory.lh8ut8rj3n.wasm": "System.Memory.wasm",
       "System.Net.Http.91u68o3kuo.wasm": "System.Net.Http.wasm",
       "System.Net.Primitives.9edy6dk27e.wasm": "System.Net.Primitives.wasm",
@@ -43,11 +43,11 @@
       "System.Web.HttpUtility.cfb5poxjpv.wasm": "System.Web.HttpUtility.wasm",
       "System.wznexm8bk2.wasm": "System.wasm",
       "System.Private.CoreLib.ooytj2yqfx.wasm": "System.Private.CoreLib.wasm",
-      "AirsoftPhysics.p5c7hgzu6b.wasm": "AirsoftPhysics.wasm",
-      "BlazorSciFi.ljj4dg2lmu.wasm": "BlazorSciFi.wasm",
-      "BBTrajectoryCalculator.zaxesoxmdc.wasm": "BBTrajectoryCalculator.wasm",
+      "AirsoftPhysics.1bw16p7w2j.wasm": "AirsoftPhysics.wasm",
+      "BlazorSciFi.6husdsbccx.wasm": "BlazorSciFi.wasm",
+      "BBTrajectoryCalculator.5iwf3f5kai.wasm": "BBTrajectoryCalculator.wasm",
       "dotnet.native.zobg50o2ht.js": "dotnet.native.js",
-      "dotnet.native.bqeg75voi4.wasm": "dotnet.native.wasm",
+      "dotnet.native.m4bnu7c7ro.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.runtime.593bvuk5yc.js": "dotnet.runtime.js"
     },
@@ -58,7 +58,7 @@
       "dotnet.runtime.593bvuk5yc.js": "sha256-x+PnWU47EIr/zL3xxqIUMDJi/dy5904TVGunDqCvjIY="
     },
     "wasmNative": {
-      "dotnet.native.bqeg75voi4.wasm": "sha256-kzn/yZh7jhchfIQIig8VIZGmha2zhbKyC8LGrYGmfYY="
+      "dotnet.native.m4bnu7c7ro.wasm": "sha256-FnL/HpsC9esv7jPx65NWEmmgRbKW9TuEKwJmxItxjhQ="
     },
     "coreAssembly": {
       "Microsoft.AspNetCore.Components.0oemotf9iu.wasm": "sha256-wM/XD6MOsTMfoXgpJGDiUE9mdJmk5JRlgMAS6iPhk74=",
@@ -87,7 +87,7 @@
       "System.Console.2sbtg110wg.wasm": "sha256-4qRY/5+Ey7x15FW3vPJu4xbgOrkuvmaS0d7PdKFzcos=",
       "System.Diagnostics.DiagnosticSource.peje13o6fr.wasm": "sha256-weZ9DiXn86BMhJW7PRejCdCsfRKxY9Adc39ZZlh4T3U=",
       "System.IO.Pipelines.oi2s35fcuu.wasm": "sha256-QP3mtoEBBOWO+uY71/hHali4rin9x5037XNyQxh3BRo=",
-      "System.Linq.y8zvycung0.wasm": "sha256-MnYJlRiLovN8FvPgth8PrHiN7CTq/3cvaW/UrA76WRw=",
+      "System.Linq.6soujis859.wasm": "sha256-CuzykpqEwH2QB04ewFsDh3CqHDeKiQPPuowXcrkvy9k=",
       "System.Memory.lh8ut8rj3n.wasm": "sha256-eVOWPiOSl0FptJv+sWnmu2oCfSzfCUwbYEas6WK/pXQ=",
       "System.Net.Http.91u68o3kuo.wasm": "sha256-jXUZrmcfDZFAa8UYOnGAAJbPSb+EFyXkAiv8ywB5p7M=",
       "System.Net.Primitives.9edy6dk27e.wasm": "sha256-r62qoHTa/QaezcbGcf6/jcC4C9AARyVrFheZCTAs0rg=",
@@ -101,9 +101,9 @@
       "System.Web.HttpUtility.cfb5poxjpv.wasm": "sha256-6E2XRlnQAP/v1DB814xzkv8zJ11IQI/U/dVhMvvgkLg=",
       "System.wznexm8bk2.wasm": "sha256-/Imz/Enqa2AZc4T3k/CqtsM6674KRN9OUtvK4Nokhew=",
       "System.Private.CoreLib.ooytj2yqfx.wasm": "sha256-2C/XgDUpm9dwQdXa5MuUsq8hZyNix4AZmdK97c0EwdY=",
-      "AirsoftPhysics.p5c7hgzu6b.wasm": "sha256-Tdq/WcFDjTgrhiXWLkrS7v6NMhoIuAlDFVmzB6Axdsw=",
-      "BlazorSciFi.ljj4dg2lmu.wasm": "sha256-D/fdbKCFjcrN7MFQe9fyWQeazwwM77zPNAU5w1iHvvg=",
-      "BBTrajectoryCalculator.zaxesoxmdc.wasm": "sha256-5dNA22M184O7V/4MB6YVOG9n0sLs10POs+XstBsoJQE="
+      "AirsoftPhysics.1bw16p7w2j.wasm": "sha256-zZNU4uAMtV1rbcEcZ911PN5lT1/8eHzah3q/naI+7vs=",
+      "BlazorSciFi.6husdsbccx.wasm": "sha256-SlYcAUoIcxBUuueMdvz1FSueayUmtp1L52JWp2qcYjA=",
+      "BBTrajectoryCalculator.5iwf3f5kai.wasm": "sha256-s979iztcxMC564Wkv8Ynjx+fYNZ/2VVE+/hjumKi86A="
     },
     "assembly": {}
   },
